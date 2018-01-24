@@ -1,0 +1,22 @@
+.btn-primary{
+    color:#fff;
+    background-color:#bdbdbd70;
+    border-color:#bdbdbd;
+}
+
+.btn-primary:hover{
+    color:#fff;
+    background-color:#bdbdbd70;
+    border-color:#bdbdbd
+}
+.btn-primary.focus,.btn-primary:focus{
+    box-shadow:0 0 0 .2rem rgb(49, 49, 49)
+}
+.btn-primary.disabled,.btn-primary:disabled{
+    background-color:rgb(49, 49, 49);
+    border-color:rgb(49, 49, 49)
+}
+
+#favorite{
+    
+}
